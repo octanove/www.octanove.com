@@ -103,7 +103,8 @@ figure {
   #colorlib-aside #colorlib-logo {
     background-image: url("../images/logo.png");
     background-repeat: no-repeat;
-    background-size: 200px;
+    background-size: 160px;
+    background-position: top right;
     font-weight: 400;
     font-size: 20px;
     text-transform: uppercase;

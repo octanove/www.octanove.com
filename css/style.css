@@ -108,7 +108,7 @@ figure {
     font-weight: 400;
     font-size: 20px;
     text-transform: uppercase;
-    margin-bottom: 3em;
+    margin-bottom: 0em;
     display: block;
     width: 100%; }
     @media screen and (max-width: 768px) {

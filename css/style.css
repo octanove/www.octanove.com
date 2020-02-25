@@ -1110,3 +1110,13 @@ body.offcanvas {
     height: inherit !important;
     float: left;
     padding-top: 30px; } }
+
+#careers {
+  padding: 60px 30px 30px 30px;
+  font-size: 16px;
+}
+#careers h2 {
+  font-size: 24px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
